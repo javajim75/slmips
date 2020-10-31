@@ -1,6 +1,6 @@
 # MIPS processor in Simulink
 
-This is the implementation of single-cycle MIPS processor in Simulink.
+This is the implementation of single-cycle MIPS processor in Simulink, as adapted from kyak/slmips.
 It closely follows the MIPS microarchitecture described in "Digital Design and
 Computer Architecture" by David Money Harris and Sarah L. Harris.
 This design can be simulated in Simulink and converted automatically to HDL using HDL Coder.
